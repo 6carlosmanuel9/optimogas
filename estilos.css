@@ -1,7 +1,10 @@
 body{
+    width: 100%;
+    height: 100%;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
 }
 
 #optimogas path:nth-child(1){
