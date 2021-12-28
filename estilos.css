@@ -1,6 +1,7 @@
 body{
     display: flex;
-    align-items: center;
+    flex-direction: row;
+    justify-content: center;
 }
 
 #optimogas path:nth-child(1){
